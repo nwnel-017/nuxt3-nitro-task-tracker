@@ -1,6 +1,6 @@
-# Nuxt Minimal Starter
+# My Task App
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Welcome to my task tracker app! This is an app I built while getting used to Vue.js with Nuxt 3 and Nitro! It is a simple app that lets you view and add tasks. I have been loving the simplicity with Nuxt 3 and Nitro, and will be using these frameworks for more projects soon!
 
 ## Setup
 
